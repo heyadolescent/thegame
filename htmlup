@@ -1,0 +1,10 @@
+<!-- ДАЙСЫ (c) Spiritus Tergi, ч1 в хтмл-верх -->
+<script type="text/javascript" src="https://forumstatic.ru/files/000f/3e/d5/42785.js" charset="UTF-8"></script>
+
+<!-- HTML В ПОСТАХ С ДОПУСКОМ ПО ГРУППАМ © Alex_63 -->
+<script type="text/javascript" src="https://forumstatic.ru/files/0015/c4/3f/52361.js"></script>
+<script type="text/javascript">
+    HTMLinPost.groups = [1, 2, 6]; // Группы, допущенные к вставке HTML в посты
+    HTMLinPost.noAccess = ['user', 'newTst2']; // Пользователи с запретом вставки HTML в посты
+    HTMLinPost.parseHTMLinPosts()
+</script>
